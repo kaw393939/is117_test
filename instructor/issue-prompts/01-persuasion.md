@@ -44,4 +44,4 @@ Use a recurring example: a plain white T-shirt. Show how the same physical produ
 
 Do not invent sources, quotations, or URLs. If outside research would improve the chapter, add a section called `Explore Further` containing search suggestions rather than fabricated links.
 
-Finish with a concise summary called `What You Should Remember`.
+Finish with a concise summary called `What You Should Remember and Take`.
